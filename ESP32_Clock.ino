@@ -2,6 +2,7 @@
  * The MIT License (MIT)
  *
  * Copyright (c) 2018 by Gordon Pimblott
+ * Ported from original code by Daniel Eichhorn & Fabrice Weinber
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -22,7 +23,7 @@
  * SOFTWARE.
  *
  *
- * Ported from original code by Daniel Eichhorn & Fabrice Weinber
+ * It was been ported to work on Heltec_WiFi_Kit 32 with OLED screen
  */
 #include <Arduino.h>
 #include <U8g2lib.h>
